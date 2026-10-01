@@ -2,7 +2,7 @@
  Passionate about Cybersecurity, Ethical Hacking, and Digital Defense. My journey is centered on understanding security threats, analyzing vulnerabilities, and building safer digital environments. I continuously explore network security, web application security, and security best practices while developing strong problem-solving and analytical skills. Through hands-on learning, CTF challenges, and practical projects, I aim to stay ahead in the ever-evolving cybersecurity landscape and contribute to creating a more secure digital world.
 
 -   Currently learning **Java & DSA** using Coddex
--   Iam Currently solving problem with **C**
+-   Iam Currently solving problem with **C++**
 -   Sleeping is temporary, deadlines are forever 
 -   Stalking my profile? At least star a repository first⭐
 
